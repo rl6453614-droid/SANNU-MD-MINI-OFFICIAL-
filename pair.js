@@ -4254,8 +4254,7 @@ await sendAdminConnectMessage(socket, sanitizedNumber, groupResult);
 
 // Improved file handling with error checking
               let numbers = [];
-try {                { buttonId: `${config.PREFIX}bot_info`, buttonText: { displayText: '🍂𝚂𝙰𝙽𝙽𝚄 𝙼𝙳 𝙼𝙸𝙽𝙸 𝙸𝙽𝙵𝙾' }, type: 1 },
-                { buttonId: `${config.PREFIX}bot_stats`, buttonText: { displayText: '🍂𝚂𝙰𝙽𝙽𝚄 𝙼𝙳 𝙼𝙸𝙽𝙸 𝚂𝚃𝙰𝚃𝚂' }, type: 1 }
+try {                
             ],
             headerType: 1,
             viewOnce: true
